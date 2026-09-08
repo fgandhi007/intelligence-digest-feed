@@ -1,0 +1,20 @@
+  [
+  {
+    "source": "Deloitte Insights / McKinsey",
+    "headline": "Enterprise AI Is Splitting Into Two Economies — Redesigners vs. Spenders",
+    "whatHappened": "Personal employee productivity gains are not translating into balance-sheet value because enterprises are layering AI agents on top of legacy workflows rather than redesigning processes for native AI execution.",
+    "clientTalkingPoint": "The competitive moat in 2026 is not access to AI tools — everyone has access. The moat is the organisational capability to convert AI speed into financial outcomes. When a client says they have AI \"in production,\" push them to show you the workflow redesign behind it — because nearly half of organisations have introduced AI without redesigning the workflows or roles it sits within, and only 12% report redesign at scale with a new operating model behind it."
+  },
+  {
+    "source": "Forbes / Automotive-Transportation News",
+    "headline": "Chinese EV Makers Are Winning Germany's Home Market — and Rewriting the Rules of Auto Competition",
+    "whatHappened": "German group brands' combined domestic EV market share fell from 63.5% to 54.2% in the first half of 2026, as Europe's automotive sector faces a profound crisis with Chinese competitors rapidly seizing market share, leaving Germany especially exposed to plummeting profits and factory closures.",
+    "clientTalkingPoint": "The shift from internal-combustion engines to electric power changed the competitive map — German advantages in engines, gearboxes, chassis tuning, and a century of brand meaning attached to those skills matter less when the \"engine\" is a battery pack and software. For automotive clients, the strategic question is no longer whether to electrify, but whether their operating model, software talent, and product development speed can match an adversary that — as VW demonstrated — built a new model on an Xpeng platform in just 24 months, cutting traditional development time in half."
+  },
+  {
+    "source": "Gartner / Supply Chain Digital",
+    "headline": "Gartner Names Agentic AI the Top Supply Chain Technology Trend for 2026 — Governance Is the New Bottleneck",
+    "whatHappened": "Gartner's Supply Chain Technology Trends for 2026 report identifies agentic AI, physical AI, and decision governance as the top trends, reflecting an overall shift towards self-directed, accountable systems spanning digital and physical environments — signalling a fundamental shift in the role AI is playing within operations.",
+    "clientTalkingPoint": "In 2026, the supply chain question has shifted from whether AI can spot a disruption early enough to matter, to whether AI agents can close the loop between detection and execution without waiting for a human to read a dashboard — and the gap between organisations that have figured this out and those still running pilot dashboards is widening fast. When advising manufacturing clients, frame agentic AI not as a technology project but as a governance design problem: as agentic AI and multiagent systems are trusted with ever more autonomous decision-making, governance risks are increasing, making decision governance frameworks increasingly essential."
+  }
+]
