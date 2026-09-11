@@ -1,20 +1,20 @@
   [
   {
-    "source": "Deloitte Insights / McKinsey",
-    "headline": "Enterprise AI Is Splitting Into Two Economies — Redesigners vs. Spenders",
-    "whatHappened": "Personal employee productivity gains are not translating into balance-sheet value because enterprises are layering AI agents on top of legacy workflows rather than redesigning processes for native AI execution.",
-    "clientTalkingPoint": "The competitive moat in 2026 is not access to AI tools — everyone has access. The moat is the organisational capability to convert AI speed into financial outcomes. When a client says they have AI \"in production,\" push them to show you the workflow redesign behind it — because nearly half of organisations have introduced AI without redesigning the workflows or roles it sits within, and only 12% report redesign at scale with a new operating model behind it."
+    "source": "Yahoo Finance / The Next Web",
+    "headline": "Accenture and Google Cloud Launch Gemini Enterprise Business Group with 1,000 On-Site Engineers",
+    "whatHappened": "Accenture and Google Cloud launched the Accenture Gemini Enterprise Business Group on September 8, 2026 — a global group designed to help enterprise clients scale outcomes on Google Cloud's agentic AI platform, with plans to establish a 1,000-person forward-deployed engineer workforce.",
+    "clientTalkingPoint": "The models are increasingly abundant and interchangeable — the scarcity is in people who can install them inside your organisation. That's why platform companies are now paying a consultancy to train its own staff on their software, rather than the other way around. When your client asks which AI platform to bet on, the more important question is: do they have access to implementation talent, not just the technology?"
   },
   {
-    "source": "Forbes / Automotive-Transportation News",
-    "headline": "Chinese EV Makers Are Winning Germany's Home Market — and Rewriting the Rules of Auto Competition",
-    "whatHappened": "German group brands' combined domestic EV market share fell from 63.5% to 54.2% in the first half of 2026, as Europe's automotive sector faces a profound crisis with Chinese competitors rapidly seizing market share, leaving Germany especially exposed to plummeting profits and factory closures.",
-    "clientTalkingPoint": "The shift from internal-combustion engines to electric power changed the competitive map — German advantages in engines, gearboxes, chassis tuning, and a century of brand meaning attached to those skills matter less when the \"engine\" is a battery pack and software. For automotive clients, the strategic question is no longer whether to electrify, but whether their operating model, software talent, and product development speed can match an adversary that — as VW demonstrated — built a new model on an Xpeng platform in just 24 months, cutting traditional development time in half."
+    "source": "PwC Global",
+    "headline": "PwC's 2026 AI Jobs Barometer Reveals a Two-Track Labour Market — and Human Skills Are Winning",
+    "whatHappened": "PwC's 2026 Global AI Jobs Barometer, analysing more than one billion job ads across six continents, found that AI is driving a \"two-track\" global labour market — where \"professionalised\" roles emphasising human judgement are growing faster than \"democratised\" roles where AI simplifies the work itself.",
+    "clientTalkingPoint": "Professionalised roles are seeing twice the growth in available jobs and 42% faster salary growth than democratised ones. When advising clients on workforce strategy, the frame has shifted: the goal isn't to protect headcount from AI — it's to deliberately design which roles get professionalised and which get democratised, before the market does it for them."
   },
   {
-    "source": "Gartner / Supply Chain Digital",
-    "headline": "Gartner Names Agentic AI the Top Supply Chain Technology Trend for 2026 — Governance Is the New Bottleneck",
-    "whatHappened": "Gartner's Supply Chain Technology Trends for 2026 report identifies agentic AI, physical AI, and decision governance as the top trends, reflecting an overall shift towards self-directed, accountable systems spanning digital and physical environments — signalling a fundamental shift in the role AI is playing within operations.",
-    "clientTalkingPoint": "In 2026, the supply chain question has shifted from whether AI can spot a disruption early enough to matter, to whether AI agents can close the loop between detection and execution without waiting for a human to read a dashboard — and the gap between organisations that have figured this out and those still running pilot dashboards is widening fast. When advising manufacturing clients, frame agentic AI not as a technology project but as a governance design problem: as agentic AI and multiagent systems are trusted with ever more autonomous decision-making, governance risks are increasing, making decision governance frameworks increasingly essential."
+    "source": "Deloitte AI Institute",
+    "headline": "Deloitte Data Shows Only 12% of Organisations Have Redesigned Work Around AI at Scale",
+    "whatHappened": "Nearly half of respondents (48%) say their organisation has introduced AI without redesigning the workflows or roles it sits within, while only 12% report redesign at scale with a new operating model behind it.",
+    "clientTalkingPoint": "The gap between AI deployment and AI transformation is real, and it's wider than most leaders assume — in most organisations, the technology is moving faster than the operating model, the governance, and the measurement system around it. Use this data point to challenge clients who equate tool rollout with transformation — deployment without redesign is just expensive experimentation."
   }
 ]
