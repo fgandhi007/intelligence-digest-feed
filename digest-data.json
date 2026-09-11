@@ -1,20 +1,20 @@
   [
   {
-    "source": "Yahoo Finance / The Next Web",
-    "headline": "Accenture and Google Cloud Launch Gemini Enterprise Business Group with 1,000 On-Site Engineers",
-    "whatHappened": "Accenture and Google Cloud launched the Accenture Gemini Enterprise Business Group on September 8, 2026 — a global group designed to help enterprise clients scale outcomes on Google Cloud's agentic AI platform, with plans to establish a 1,000-person forward-deployed engineer workforce.",
-    "clientTalkingPoint": "The models are increasingly abundant and interchangeable — the scarcity is in people who can install them inside your organisation. That's why platform companies are now paying a consultancy to train its own staff on their software, rather than the other way around. When your client asks which AI platform to bet on, the more important question is: do they have access to implementation talent, not just the technology?"
+    "source": "Accenture Newsroom / Quartz",
+    "headline": "Accenture and Google Cloud Launch Dedicated Agentic AI Business Group With 1,000 On-Site Engineers",
+    "whatHappened": "Accenture and Google Cloud launched the Accenture Gemini Enterprise Business Group on September 8, 2026, a global group designed to help enterprise clients scale outcomes on Google Cloud's agentic AI platform, with plans to establish a 1,000-person forward deployed engineer workforce.",
+    "clientTalkingPoint": "This unit is explicitly designed to help clients move AI projects from experimental phases into commercial production — which tells your clients that the hyperscalers are no longer waiting for internal readiness. The question to put to any leadership team this week: if Accenture is deploying 1,000 engineers to accelerate your competitors' agentic rollouts, what is your plan to avoid being on the wrong side of that deployment curve?"
   },
   {
-    "source": "PwC Global",
-    "headline": "PwC's 2026 AI Jobs Barometer Reveals a Two-Track Labour Market — and Human Skills Are Winning",
-    "whatHappened": "PwC's 2026 Global AI Jobs Barometer, analysing more than one billion job ads across six continents, found that AI is driving a \"two-track\" global labour market — where \"professionalised\" roles emphasising human judgement are growing faster than \"democratised\" roles where AI simplifies the work itself.",
-    "clientTalkingPoint": "Professionalised roles are seeing twice the growth in available jobs and 42% faster salary growth than democratised ones. When advising clients on workforce strategy, the frame has shifted: the goal isn't to protect headcount from AI — it's to deliberately design which roles get professionalised and which get democratised, before the market does it for them."
+    "source": "Reuters / Tom's Hardware",
+    "headline": "Standard Chartered to Cut 7,000 Jobs, Framing AI Replacement of Roles as Capital Reallocation — Not Cost-Cutting",
+    "whatHappened": "Standard Chartered is aiming to slash more than 7,000 jobs over the next four years amid an AI push as it seeks to replace \"lower-value human capital\" with technology.",
+    "clientTalkingPoint": "CEO Bill Winters framed the changes not as cost-cutting but as a strategic shift, saying the bank is \"replacing in some cases lower-value human capital with the financial capital and the investment capital we're putting in.\" This language will reappear in boardrooms across financial services and beyond — use it with clients to reframe the workforce conversation: the strategic question is no longer whether to automate, but how to narrate and govern the transition before regulators or employees do it for you."
   },
   {
-    "source": "Deloitte AI Institute",
-    "headline": "Deloitte Data Shows Only 12% of Organisations Have Redesigned Work Around AI at Scale",
-    "whatHappened": "Nearly half of respondents (48%) say their organisation has introduced AI without redesigning the workflows or roles it sits within, while only 12% report redesign at scale with a new operating model behind it.",
-    "clientTalkingPoint": "The gap between AI deployment and AI transformation is real, and it's wider than most leaders assume — in most organisations, the technology is moving faster than the operating model, the governance, and the measurement system around it. Use this data point to challenge clients who equate tool rollout with transformation — deployment without redesign is just expensive experimentation."
+    "source": "Deloitte / PR Newswire",
+    "headline": "Deloitte Survey: 74% of Leaders Expect Half Their Processes Rebuilt Around AI Agents — Only 1 in 5 Are Actually Prepared",
+    "whatHappened": "New Deloitte research finds that within four years, 74% of leaders expect nearly half of their business processes will be redesigned or rebuilt around AI agents, yet only 1 in 5 leaders surveyed say their organisations are prepared to redesign processes for autonomous, agentic operation.",
+    "clientTalkingPoint": "Scaling AI is no longer a technology challenge — it is an enterprise operating model challenge. When you sit down with a client this week, the diagnostic question is not \"how many AI tools do you have?\" but \"how many of your core processes have been redesigned around AI?\" With 82% expecting 10%+ job automation within three years but 84% of companies having not redesigned jobs around AI, the gap between intention and execution is exactly where transformation consultants create the most value right now."
   }
 ]
