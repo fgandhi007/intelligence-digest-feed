@@ -5,31 +5,7 @@
       "headline": "",
       "whatHappened": "",
       "clientTalkingPoint": ""
-    },
-    {
-      "source": "Anthropic (via Bloomberg, Newslaundry, AI Governance)",
-      "headline": "Anthropic's 154-Page Threat Report Reveals AI Is Now an Orchestrator in State-Sponsored Cyberattacks, Espionage, and Weapons Research",
-      "whatHappened": "Anthropic identified and disrupted attempts to use its Claude AI models for cyberattacks, espionage, surveillance, scams, influence operations, conventional weapons development, and research that could potentially support biological weapons development between December 2025 and August 2026.",
-      "clientTalkingPoint": "The report finds that large language models are increasingly being embedded into autonomous, multi-agent frameworks that can execute complex tasks at machine speed — a shift that has reduced the labour and tooling gap between major nation-states and lower-resource actors, with human involvement in attacks now often limited to selecting targets and reviewing final results. For transformation clients scaling agentic AI, this makes AI governance and multi-agent access controls a board-level risk conversation, not just an IT one."
-    },
-    {
-      "source": "Bloomberg / TechBriefly / TechTimes",
-      "headline": "Microsoft Plans to More Than Triple Global Data Centre Capacity to 38 Gigawatts by 2032 After Capacity Crisis Forces It to Turn Away Enterprise Clients",
-      "whatHappened": "Microsoft plans to more than triple its global data centre capacity to more than 38 gigawatts by 2032 from about 12 gigawatts now, and is ramping AI infrastructure as cloud demand outstrips supply after capital spending hit $145 billion last fiscal year.",
-      "clientTalkingPoint": "Microsoft has lost enterprise clients it could not serve, restricted Xbox cloud streaming for paying subscribers, and watched GitHub route developer traffic to Amazon because Azure had no room for it — a concrete signal that AI infrastructure scarcity is already disrupting enterprise platform decisions. Clients deep in Microsoft ecosystems should pressure-test their cloud commitments and roadmap dependencies now, before the 2032 build materialises."
-    },
-    {
-      "source": "BankInfoSecurity / TechTimes / AI Weekly",
-      "headline": "Single Threat Actor Using AI Agents Breached 395 Organisations Across 48 Countries in Under 26 Seconds Per Organisation — A Documented First",
-      "whatHappened": "On September 9, 2026, threat intelligence firm GreyNoise published a finding that a single attacker, armed with commercial AI models — OpenAI's Codex and a DeepSeek model — built, tested, and deployed a swarm of autonomous agents that compromised 440 servers belonging to 395 distinct organisations across 48 countries, in a campaign that peaked at eleven breaches in twenty-six seconds.",
-      "clientTalkingPoint": "That compression of what would once have required a specialist team into the equivalent of a single person's afternoon is not a forecast — it is a measured, documented event with a timestamp; and what is new in the 2026 campaign is the degree to which AI has compressed the attacker's timeline, making the already-tight window for defenders even narrower. Any client deploying AI agents without machine-speed detection and Zero Trust for non-human identities is now operating at a measurable, documented disadvantage — use this as the forcing function to accelerate security architecture reviews."
     }
   ],
-  "additionalHeadlines": [
-    {
-      "headline": "Oracle Books $664 Billion Cloud Backlog as Pentagon Moves Toward $5 Billion Data-Centre Supply Chain Loan",
-      "source": "Tech Startups / Financial Times",
-      "whyRelevant": ""
-    }
-  ]
+  "additionalHeadlines": []
 }
