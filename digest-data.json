@@ -7,49 +7,39 @@
       "clientTalkingPoint": ""
     },
     {
-      "source": "MIT Technology Review",
-      "headline": "AI agents are moving from pilots to production — and the risks are scaling with them",
-      "whatHappened": "Enterprises are accelerating deployment of autonomous AI agents capable of taking multi-step actions across systems without human approval at each stage. MIT Technology Review highlights that while productivity gains are real, organisations are discovering that agent failures cascade in ways that traditional software errors do not — corrupting data, triggering unintended transactions, and creating audit trails that compliance teams cannot interpret.",
-      "clientTalkingPoint": "This is the conversation your board needs to have before your next agentic AI pilot scales. The question is no longer 'does it work in the demo?' — it's 'do we have the governance architecture to contain failure at speed?' Most organisations don't. We should map your control frameworks against agentic deployment before you're managing an incident rather than a roadmap."
+      "source": "Unknown",
+      "headline": "No articles were provided for analysis",
+      "whatHappened": "The article list passed into this prompt appears to be empty or unpopulated — the template variable $json.articlesText did not resolve to any content.",
+      "clientTalkingPoint": "This briefing could not be generated due to a data pipeline issue — the articles feed needs to be checked to ensure content is being passed correctly before the next briefing cycle."
     },
     {
-      "source": "Harvard Business Review",
-      "headline": "Why most digital transformations still fail — and what the successful ones have in common",
-      "whatHappened": "A new HBR analysis of multi-year transformation programmes found that technology investment alone continues to be a poor predictor of success. Organisations that achieved sustained outcomes shared three traits: a transformation office with direct CEO accountability, capability building embedded in delivery rather than outsourced to training teams, and a ruthless prioritisation mechanism that killed low-value initiatives within the first 90 days.",
-      "clientTalkingPoint": "This reinforces what we see on the ground. The differentiator isn't the tech stack — it's the operating model around it. If your transformation programme doesn't have a kill mechanism for underperforming workstreams, you're not transforming, you're just spending. I'd like to walk through where your governance model sits against these three markers."
+      "source": "Unknown",
+      "headline": "Template variable $json.articlesText appears unresolved",
+      "whatHappened": "No article data was injected into the prompt, meaning the upstream n8n node either failed to populate the variable or passed an empty string.",
+      "clientTalkingPoint": "Data pipeline integrity is critical — even automated briefing tools require validation steps to confirm inputs are populated before generation runs."
     },
     {
-      "source": "The Economist",
-      "headline": "Governments are rewriting the rules on data sovereignty — and multinationals are caught in the middle",
-      "whatHappened": "A wave of new data localisation regulations across the EU, India, and Southeast Asia is forcing multinationals to redesign cloud architectures they built for global efficiency. The Economist reports that compliance costs are rising sharply and that the patchwork of requirements is making a single global data strategy effectively unworkable for organisations operating across more than three jurisdictions.",
-      "clientTalkingPoint": "If your cloud strategy was designed pre-2022, it was almost certainly designed for a world that no longer exists from a regulatory standpoint. Data sovereignty is now a first-order architecture constraint, not a compliance footnote. The organisations getting ahead of this are building federated data models with jurisdiction-aware controls baked in — not retrofitted. This is worth a dedicated session with your CTO and legal teams together."
+      "source": "Unknown",
+      "headline": "Briefing generation halted — no source material available",
+      "whatHappened": "Without verified articles to draw from, the analyst cannot fabricate or assume news content, so no stories can be responsibly selected.",
+      "clientTalkingPoint": "Responsible AI use means refusing to hallucinate content — this blank output is the correct behaviour when source data is missing."
     }
   ],
   "additionalHeadlines": [
     {
-      "headline": "CIOs rank talent scarcity above budget as their top transformation constraint for the second consecutive year",
-      "source": "Gartner",
-      "whyRelevant": "Validates the skills-first conversation with clients — technology investment decisions need to be stress-tested against available capability to execute, not just business case ROI."
+      "headline": "Check n8n workflow: articlesText node output may be null or empty",
+      "source": "System Diagnostic",
+      "whyRelevant": "The $json.articlesText variable resolved to no content — verify the upstream HTTP Request or RSS node returned data and that the field mapping is correct."
     },
     {
-      "headline": "McKinsey: Generative AI adoption has plateaued at the experimentation stage in most large enterprises",
-      "source": "McKinsey & Company",
-      "whyRelevant": "Useful counter-narrative to AI hype cycles. Positions the consultant as grounded — helping clients move from the 80% stuck in pilot purgatory to the 20% achieving enterprise-scale value."
+      "headline": "Verify sourcesList and topicsList variables also resolved correctly",
+      "source": "System Diagnostic",
+      "whyRelevant": "Multiple template variables in this prompt may be unresolved, suggesting a broader workflow execution issue rather than a single field problem."
     },
     {
-      "headline": "Cyber insurers tighten terms as AI-enabled attacks outpace enterprise defences",
-      "source": "Financial Times",
-      "whyRelevant": "Risk and insurance implications of AI-accelerated threat vectors are becoming a boardroom issue, creating an entry point for conversations linking cybersecurity posture to transformation programme design."
-    },
-    {
-      "headline": "Microsoft and Google report enterprise customers are consolidating vendor relationships to reduce integration complexity",
-      "source": "Wall Street Journal",
-      "whyRelevant": "Platform consolidation is reshaping the vendor landscape and creating both opportunity and risk in client technology portfolios — directly relevant to architecture and sourcing strategy conversations."
-    },
-    {
-      "headline": "Only 12% of change management investments are tied to measurable business outcomes, study finds",
-      "source": "Prosci / Forbes",
-      "whyRelevant": "Reinforces the case for outcome-linked transformation governance and gives consultants a sharp data point when challenging clients on how they are measuring the human side of change."
+      "headline": "Consider adding an input validation node before the AI generation step",
+      "source": "System Diagnostic",
+      "whyRelevant": "A simple IF node checking that articlesText is non-empty would prevent wasted AI API calls and surface pipeline failures earlier."
     }
   ]
 }
