@@ -7,39 +7,49 @@
       "clientTalkingPoint": ""
     },
     {
-      "source": "Unknown",
-      "headline": "No articles were provided for analysis",
-      "whatHappened": "The article list passed into this prompt appears to be empty or unpopulated — the template variable $json.articlesText did not resolve to any content.",
-      "clientTalkingPoint": "This briefing could not be generated due to a data pipeline issue — the articles feed needs to be checked to ensure content is being passed correctly before the next briefing cycle."
+      "source": "TechCrunch",
+      "headline": "A New, Bigger AV Boom Is Reshaping Mobility Strategy",
+      "whatHappened": "TechCrunch Mobility reports that autonomous vehicle deployment is entering a second, larger wave of growth, signaling a structural shift in how fleet, logistics, and personal mobility will be organized.",
+      "clientTalkingPoint": "The first AV boom was about proving the technology works — this second wave is about who controls the operating model, the data stack, and the customer relationship at scale. Your clients in fleet and mobility need to decide now whether they're an AV operator, an integrator, or a platform — because staying neutral is no longer a strategy."
     },
     {
-      "source": "Unknown",
-      "headline": "Template variable $json.articlesText appears unresolved",
-      "whatHappened": "No article data was injected into the prompt, meaning the upstream n8n node either failed to populate the variable or passed an empty string.",
-      "clientTalkingPoint": "Data pipeline integrity is critical — even automated briefing tools require validation steps to confirm inputs are populated before generation runs."
+      "source": "TechCrunch",
+      "headline": "Cracks Emerging in AI Spending Boom Signal a Coming ROI Reckoning",
+      "whatHappened": "TechCrunch reports that visible stress fractures are appearing in enterprise AI capital expenditure momentum, suggesting the era of unchecked AI investment is giving way to demand for measurable returns.",
+      "clientTalkingPoint": "Boards are starting to ask the question that was always coming: where is the business value? Clients who built their AI roadmap around spend velocity rather than outcome architecture are now exposed. This is the moment to reframe transformation investments around use-case P&L, not platform capability."
     },
     {
-      "source": "Unknown",
-      "headline": "Briefing generation halted — no source material available",
-      "whatHappened": "Without verified articles to draw from, the analyst cannot fabricate or assume news content, so no stories can be responsibly selected.",
-      "clientTalkingPoint": "Responsible AI use means refusing to hallucinate content — this blank output is the correct behaviour when source data is missing."
+      "source": "TechCrunch",
+      "headline": "Nvidia Moves to Co-Sign AI Data Center Financing — Deepening Its Infrastructure Bet",
+      "whatHappened": "Nvidia is reportedly considering acting as a financial cosigner for an Nscale AI data center in West Virginia, extending its strategic influence from chip supply into capital structure and infrastructure ownership.",
+      "clientTalkingPoint": "Nvidia is no longer just a semiconductor vendor — it is actively shaping who gets to build AI infrastructure and on what terms. For automotive and mobility clients relying on Nvidia's compute stack, this is a signal that the dependency relationship is deepening and the negotiating leverage is shifting further toward Nvidia."
     }
   ],
   "additionalHeadlines": [
     {
-      "headline": "Check n8n workflow: articlesText node output may be null or empty",
-      "source": "System Diagnostic",
-      "whyRelevant": "The $json.articlesText variable resolved to no content — verify the upstream HTTP Request or RSS node returned data and that the field mapping is correct."
+      "headline": "Waymo Partners With Toyota and Ford Bets on V2H — AV and Energy Convergence Accelerates",
+      "source": "Electrek",
+      "whyRelevant": "Direct relevance to Toyota and Ford client relationships — Waymo's Toyota partnership and Ford's vehicle-to-home (V2H) move on Fathom signal that OEMs are repositioning as energy and mobility platform players, not just vehicle manufacturers."
     },
     {
-      "headline": "Verify sourcesList and topicsList variables also resolved correctly",
-      "source": "System Diagnostic",
-      "whyRelevant": "Multiple template variables in this prompt may be unresolved, suggesting a broader workflow execution issue rather than a single field problem."
+      "headline": "AI Is Making Tech CEOs' Lives Easier — But the Workforce Question Remains Unanswered",
+      "source": "TechCrunch",
+      "whyRelevant": "A sharp provocation for client conversations about AI transformation equity — useful for framing change management and organizational design discussions beyond the C-suite."
     },
     {
-      "headline": "Consider adding an input validation node before the AI generation step",
-      "source": "System Diagnostic",
-      "whyRelevant": "A simple IF node checking that articlesText is non-empty would prevent wasted AI API calls and surface pipeline failures earlier."
+      "headline": "Peterbilt Lowers Barriers for Government Fleet Electrification",
+      "source": "Electrek",
+      "whyRelevant": "Fleet electrification entering the public sector at scale is a leading indicator of where commercial EV adoption is heading — relevant for mobility transformation clients managing mixed or legacy fleets."
+    },
+    {
+      "headline": "Apple CEO Pushes Back on AI for AI's Sake — A Discipline Other Enterprises Should Study",
+      "source": "TechCrunch",
+      "whyRelevant": "Tim Cook's intentionality framing around AI deployment is a powerful counterpoint for clients over-indexing on AI adoption speed versus strategic fit — strong LinkedIn content angle."
+    },
+    {
+      "headline": "Rivian R2 Outsells Both R1 Models Combined — Mass-Market EV Tipping Point Arrives",
+      "source": "Car and Driver",
+      "whyRelevant": "Rivian's R2 volume success is a strategically significant data point on where EV demand is concentrating — relevant for OEM clients calibrating their EV product and pricing ladders."
     }
   ]
 }
