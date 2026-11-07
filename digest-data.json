@@ -1,23 +1,58 @@
-{
+  {
+  "digestDate": "Saturday, November 7, 2026",
   "stories": [
     {
       "source": "TechCrunch",
-      "headline": "A New, Bigger AV Boom Is Reshaping Mobility Strategy",
-      "whatHappened": "TechCrunch Mobility reports that autonomous vehicle deployment is entering a second, larger wave of growth, signaling a structural shift in how fleet, logistics, and personal mobility will be organized.",
-      "clientTalkingPoint": "The first AV boom was about proving the technology works — this second wave is about who controls the operating model, the data stack, and the customer relationship at scale. Your clients in fleet and mobility need to decide now whether they're an AV operator, an integrator, or a platform — because staying neutral is no longer a strategy.",
-      "url": "https://techcrunch.com"
+      "headline": "OpenAI Hits $1.25 Trillion Valuation as AI Infrastructure Arms Race Intensifies",
+      "whatHappened": "OpenAI has reportedly raised an additional $11 billion, pushing its valuation to $1.25 trillion — a signal of continued enterprise conviction in foundational AI platforms despite market uncertainty.",
+      "clientTalkingPoint": "When a single AI company commands a $1.25 trillion valuation, it reframes the question for every enterprise client: you're not deciding whether to adopt AI, you're deciding how exposed you are to the platforms that will define your industry's cost structure for the next decade.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
     },
     {
       "source": "TechCrunch",
-      "headline": "Cracks Emerging in AI Spending Boom Signal a Coming ROI Reckoning",
-      "whatHappened": "TechCrunch reports that visible stress fractures are appearing in enterprise AI capital expenditure momentum, suggesting the era of unchecked AI investment is giving way to demand for measurable returns.",
-      "clientTalkingPoint": "Boards are starting to ask the question that was always coming: where is the business value? Clients who built their AI roadmap around spend velocity rather than outcome architecture are now exposed. This is the moment to reframe transformation investments around use-case P&L, not platform capability."
+      "headline": "Google Acquires Crusoe's Wyoming Data Center as Hyperscalers Race to Lock In AI Compute Capacity",
+      "whatHappened": "Crusoe has sold its troubled Wyoming data center project to Google, reflecting the hyperscaler drive to acquire any viable AI compute infrastructure as demand continues to outpace supply.",
+      "clientTalkingPoint": "Google absorbing distressed data center assets is a bellwether: AI compute scarcity is real and strategic, and clients who haven't audited their cloud and infrastructure dependencies are building transformation roadmaps on an unstable foundation.",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
     },
     {
+      "source": "Electrek",
+      "headline": "Tesla Kills the Cybertruck as EV Surge Continues — A Pivotal Moment for Ford and Toyota Strategy",
+      "whatHappened": "Tesla has discontinued the Cybertruck while EV adoption broadly accelerates, reshaping the competitive landscape for legacy OEMs and EV-native brands alike.",
+      "clientTalkingPoint": "Tesla walking away from the Cybertruck while EVs overall are surging tells your automotive clients two things: brand alone doesn't sell EVs, and the window to get product-market fit right is closing fast — Ford and Toyota need a sharper answer on where they win in the next EV cycle.",
+      "url": "https://electrek.co/2026/11/06/podcast-tesla-kills-the-cybertruck-evs-are-surging-and-more/"
+    }
+  ],
+  "additionalHeadlines": [
+    {
+      "headline": "Amazon Deploying 3,000+ TATA Electric Delivery Trucks — Fleet Electrification at Scale Is Now Operational Reality",
+      "source": "Electrek",
+      "whyRelevant": "Amazon's large-scale EV fleet deployment with a non-Western OEM signals that last-mile electrification is moving from pilot to infrastructure — directly relevant to mobility and fleet transformation clients.",
+      "url": "https://electrek.co/2026/11/06/amazon-set-to-deploy-more-than-3000-tata-electric-delivery-trucks/"
+    },
+    {
+      "headline": "AI Industry Braces for Policy Shift After Blue Wave Midterms",
       "source": "TechCrunch",
-      "headline": "Nvidia Moves to Co-Sign AI Data Center Financing — Deepening Its Infrastructure Bet",
-      "whatHappened": "Nvidia is reportedly considering acting as a financial cosigner for an Nscale AI data center in West Virginia, extending its strategic influence from chip supply into capital structure and infrastructure ownership.",
-      "clientTalkingPoint": "Nvidia is no longer just a semiconductor vendor — it is actively shaping who gets to build AI infrastructure and on what terms. For automotive and mobility clients relying on Nvidia's compute stack, this is a signal that the dependency relationship is deepening and the negotiating leverage is shifting further toward Nvidia."
+      "whyRelevant": "Political shifts reshaping AI regulation is a critical context variable for enterprise AI transformation roadmaps — clients need scenario planning that accounts for a more interventionist regulatory environment.",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
+    },
+    {
+      "headline": "Tesla Found Liable for Fraud in Solar Roof 'Experiment' Case",
+      "source": "Electrek",
+      "whyRelevant": "A fraud ruling against Tesla in a consumer product context raises governance and accountability questions for tech-driven product rollouts — relevant talking point for clients managing technology risk and enterprise trust.",
+      "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/"
+    },
+    {
+      "headline": "EVgo Opens First Tesla Supercharger Locations with Hundreds More Planned",
+      "source": "Electrek",
+      "whyRelevant": "NACS charging network expansion by third-party operators accelerates EV infrastructure standardisation — a key dependency variable for Ford and Toyota EV adoption curve projections.",
+      "url": "https://electrek.co/2026/11/06/evgo-opens-its-first-tesla-superchargers-with-hundreds-more-planned/"
+    },
+    {
+      "headline": "Hundreds of Artex AI Hacking Tools Found Publicly Exposed on the Web",
+      "source": "TechCrunch",
+      "whyRelevant": "Proliferation of AI-powered offensive security tools in the open signals a rapidly escalating enterprise cyber risk environment — directly relevant for clients undergoing AI-led digital transformation without mature security postures.",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
     }
   ]
 }
