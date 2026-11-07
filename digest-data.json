@@ -1,17 +1,11 @@
-  {
+{
   "stories": [
-    {
-      "source": "",
-      "headline": "",
-      "whatHappened": "",
-      "clientTalkingPoint": ""
-    },
     {
       "source": "TechCrunch",
       "headline": "A New, Bigger AV Boom Is Reshaping Mobility Strategy",
       "whatHappened": "TechCrunch Mobility reports that autonomous vehicle deployment is entering a second, larger wave of growth, signaling a structural shift in how fleet, logistics, and personal mobility will be organized.",
       "clientTalkingPoint": "The first AV boom was about proving the technology works — this second wave is about who controls the operating model, the data stack, and the customer relationship at scale. Your clients in fleet and mobility need to decide now whether they're an AV operator, an integrator, or a platform — because staying neutral is no longer a strategy.",
-    "url": "https://techcrunch.com"
+      "url": "https://techcrunch.com"
     },
     {
       "source": "TechCrunch",
@@ -24,33 +18,6 @@
       "headline": "Nvidia Moves to Co-Sign AI Data Center Financing — Deepening Its Infrastructure Bet",
       "whatHappened": "Nvidia is reportedly considering acting as a financial cosigner for an Nscale AI data center in West Virginia, extending its strategic influence from chip supply into capital structure and infrastructure ownership.",
       "clientTalkingPoint": "Nvidia is no longer just a semiconductor vendor — it is actively shaping who gets to build AI infrastructure and on what terms. For automotive and mobility clients relying on Nvidia's compute stack, this is a signal that the dependency relationship is deepening and the negotiating leverage is shifting further toward Nvidia."
-    }
-  ],
-  "additionalHeadlines": [
-    {
-      "headline": "Waymo Partners With Toyota and Ford Bets on V2H — AV and Energy Convergence Accelerates",
-      "source": "Electrek",
-      "whyRelevant": "Direct relevance to Toyota and Ford client relationships — Waymo's Toyota partnership and Ford's vehicle-to-home (V2H) move on Fathom signal that OEMs are repositioning as energy and mobility platform players, not just vehicle manufacturers."
-    },
-    {
-      "headline": "AI Is Making Tech CEOs' Lives Easier — But the Workforce Question Remains Unanswered",
-      "source": "TechCrunch",
-      "whyRelevant": "A sharp provocation for client conversations about AI transformation equity — useful for framing change management and organizational design discussions beyond the C-suite."
-    },
-    {
-      "headline": "Peterbilt Lowers Barriers for Government Fleet Electrification",
-      "source": "Electrek",
-      "whyRelevant": "Fleet electrification entering the public sector at scale is a leading indicator of where commercial EV adoption is heading — relevant for mobility transformation clients managing mixed or legacy fleets."
-    },
-    {
-      "headline": "Apple CEO Pushes Back on AI for AI's Sake — A Discipline Other Enterprises Should Study",
-      "source": "TechCrunch",
-      "whyRelevant": "Tim Cook's intentionality framing around AI deployment is a powerful counterpoint for clients over-indexing on AI adoption speed versus strategic fit — strong LinkedIn content angle."
-    },
-    {
-      "headline": "Rivian R2 Outsells Both R1 Models Combined — Mass-Market EV Tipping Point Arrives",
-      "source": "Car and Driver",
-      "whyRelevant": "Rivian's R2 volume success is a strategically significant data point on where EV demand is concentrating — relevant for OEM clients calibrating their EV product and pricing ladders."
     }
   ]
 }
